@@ -1,0 +1,23 @@
+{
+  "name": "scssvariables",
+  "version": "1.0.0",
+  "description": "This module can import scss variables as js variable",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aminshamim/scssvariables.git"
+  },
+  "keywords": [
+    "scss",
+    "variable"
+  ],
+  "author": "Amin Shamim",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/aminshamim/scssvariables/issues"
+  },
+  "homepage": "https://github.com/aminshamim/scssvariables#readme"
+}
