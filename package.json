@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/aminshamim/scssvariables/issues"
   },
-  "homepage": "https://github.com/aminshamim/scssvariables#readme"
+  "homepage": "https://github.com/aminshamim/scssvariables#readme",
+  "dependencies": {
+    "file-cache": "^1.1.0"
+  }
 }

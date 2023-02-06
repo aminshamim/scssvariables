@@ -1,3 +1,5 @@
+const crypto = require("crypto");
+
 class ScssVariables {
   constructor(scssText) {
     this.scssVariables = new Map();
